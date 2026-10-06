@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 230" role="img" aria-labelledby="title desc">
+  <title id="title">AYDEA</title>
+  <desc id="desc">Jabones y shampoos artesanales orgánicos</desc>
+  <g fill="none" stroke="#303b2b" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M35 175 C76 193 126 196 172 181 C228 164 280 165 330 179 C385 194 438 194 490 177 C522 167 548 161 575 159" stroke-width="5"/>
+    <path d="M579 160 C609 154 629 135 644 111 C617 122 594 137 579 160Z" fill="#718064" stroke-width="3"/>
+    <path d="M584 157 L634 122" stroke="#f8f4eb" stroke-width="2"/>
+    <path d="M608 148 C633 150 651 166 659 188 C637 182 619 169 608 148Z" fill="#718064" stroke-width="3"/>
+    <path d="M612 153 L650 180" stroke="#f8f4eb" stroke-width="2"/>
+  </g>
+  <path d="M354 17 C344 42 330 59 330 77 C330 96 341 109 355 109 C369 109 380 96 380 77 C380 59 365 41 354 17Z" fill="#be7153"/>
+  <path d="M347 46 C337 62 339 82 348 91" fill="none" stroke="#fbf4e9" stroke-width="4" stroke-linecap="round"/>
+  <path d="M347 102 C322 73 285 68 252 58 C264 89 293 104 341 111 M361 104 C382 74 422 66 456 51 C446 86 412 104 365 112Z" fill="#718064"/>
+  <path d="M348 105 C325 82 295 69 267 61 M360 105 C384 81 417 67 444 57" fill="none" stroke="#f8f4eb" stroke-width="3"/>
+  <text x="350" y="166" text-anchor="middle" fill="#303b2b" font-family="Georgia, 'Times New Roman', serif" font-size="105" letter-spacing="-8">AYDEA</text>
+  <text x="350" y="218" text-anchor="middle" fill="#303b2b" font-family="Georgia, 'Times New Roman', serif" font-size="20" letter-spacing="4">jabones y shampoos artesanales orgánicos</text>
+</svg>

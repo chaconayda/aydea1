@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title id="title">AYDEA — símbolo botánico</title>
+  <circle cx="128" cy="128" r="116" fill="#f7f3eb" stroke="#384331" stroke-width="7"/>
+  <circle cx="128" cy="128" r="105" fill="none" stroke="#778166" stroke-width="2"/>
+  <path d="M128 25 C119 43 109 56 109 69 C109 83 117 92 128 92 C139 92 147 83 147 69 C147 56 137 42 128 25Z" fill="#bd7254"/>
+  <path d="M123 47 C116 58 117 71 124 78" fill="none" stroke="#f7f3eb" stroke-width="3" stroke-linecap="round"/>
+  <path d="M125 175 C95 123 67 111 53 83 C86 95 112 91 127 158 C143 91 179 86 207 73 C194 109 160 123 131 175Z" fill="#778166"/>
+  <path d="M125 158 C103 127 78 107 61 94 M131 158 C155 125 183 99 199 81" fill="none" stroke="#f7f3eb" stroke-width="3"/>
+  <text x="128" y="190" text-anchor="middle" fill="#30392b" font-family="Georgia,serif" font-size="65" letter-spacing="-5">A</text>
+  <path d="M80 202 Q128 218 176 202" fill="none" stroke="#30392b" stroke-width="3"/>
+</svg>

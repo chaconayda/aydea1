@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 850" role="img" aria-labelledby="title desc">
+  <title id="title">Shampoo botánico AYDEA</title>
+  <desc id="desc">Botella ámbar de shampoo artesanal con etiqueta AYDEA sobre fondo crema y salvia</desc>
+  <defs>
+    <linearGradient id="backdrop" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e6d8c4"/><stop offset="1" stop-color="#c5c8b4"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#57351f"/><stop offset=".22" stop-color="#9c6032"/><stop offset=".52" stop-color="#704122"/><stop offset=".8" stop-color="#a76a38"/><stop offset="1" stop-color="#57351f"/></linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#899477"/><stop offset="1" stop-color="#536349"/></linearGradient>
+    <filter id="shadow" x="-.3" y="-.3" width="1.6" height="1.8"><feGaussianBlur stdDeviation="16"/></filter>
+  </defs>
+  <rect width="850" height="850" fill="url(#backdrop)"/>
+  <circle cx="740" cy="132" r="186" fill="#f5eee2" opacity=".3"/>
+  <ellipse cx="430" cy="740" rx="242" ry="36" fill="#394230" opacity=".2" filter="url(#shadow)"/>
+  <g fill="url(#leaf)" stroke="#526149" stroke-width="3" opacity=".9">
+    <path d="M78 521 C90 412 173 320 307 281 C284 398 201 487 78 521Z"/>
+    <path d="M95 526 C129 424 198 357 279 309" fill="none" stroke="#d9ddce" stroke-width="4"/>
+    <path d="M765 442 C703 351 691 257 732 162 C795 249 803 350 765 442Z"/>
+    <path d="M764 426 C753 333 744 257 735 190" fill="none" stroke="#d9ddce" stroke-width="4"/>
+    <path d="M112 661 C145 580 221 533 319 535 C276 611 205 661 112 661Z"/>
+    <path d="M132 650 C185 608 235 577 297 546" fill="none" stroke="#d9ddce" stroke-width="4"/>
+  </g>
+  <path d="M421 704 C418 594 429 480 425 382" fill="none" stroke="#58654b" stroke-width="7" stroke-linecap="round"/>
+  <g fill="#78856a" stroke="#526149" stroke-width="3">
+    <path d="M425 591 C352 556 333 514 336 472 C392 489 424 529 425 591Z"/>
+    <path d="M427 544 C494 494 511 452 501 411 C448 432 422 476 427 544Z"/>
+    <path d="M425 482 C364 440 351 402 361 366 C407 386 429 427 425 482Z"/>
+  </g>
+  <g>
+    <rect x="382" y="226" width="87" height="65" rx="12" fill="#292a23"/>
+    <rect x="397" y="193" width="58" height="44" rx="8" fill="#303128"/>
+    <path d="M425 195 V146 H522 Q540 146 540 160 Q540 174 522 174 H459" fill="none" stroke="#303128" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="318" y="275" width="216" height="412" rx="45" fill="url(#glass)" stroke="#573a26" stroke-width="6"/>
+    <path d="M341 301 Q351 288 366 287 V662 Q340 653 340 628Z" fill="#d29456" opacity=".26"/>
+    <rect x="335" y="390" width="182" height="209" rx="3" fill="#f6f0e4"/>
+    <path d="M353 412 H499" stroke="#be7254" stroke-width="2"/>
+    <text x="426" y="451" text-anchor="middle" fill="#30392b" font-family="Georgia,serif" font-size="32" letter-spacing="-1.5">AYDEA</text>
+    <path d="M397 460 C402 445 410 436 426 431 C442 437 450 445 455 460 M426 457 V471" fill="none" stroke="#708064" stroke-width="3" stroke-linecap="round"/>
+    <text x="426" y="495" text-anchor="middle" fill="#30392b" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">SHAMPOO</text>
+    <text x="426" y="517" text-anchor="middle" fill="#64695b" font-family="Georgia,serif" font-size="13">romero · aloe vera</text>
+    <path d="M367 535 H485" stroke="#d4bea5" stroke-width="1.5"/>
+    <text x="426" y="558" text-anchor="middle" fill="#666b5d" font-family="Arial,sans-serif" font-size="10" letter-spacing="1">ARTESANAL · 250 ml</text>
+    <path d="M385 578 Q426 566 467 578" fill="none" stroke="#708064" stroke-width="2"/>
+  </g>
+  <circle cx="155" cy="210" r="4" fill="#bd7254"/><circle cx="704" cy="594" r="5" fill="#bd7254"/><circle cx="664" cy="247" r="3" fill="#f7f3eb"/>
+</svg>
